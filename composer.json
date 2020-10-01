@@ -11,8 +11,8 @@
     ],
     "minimum-stability": "dev",
     "require": {      
-        "laravel/socialite": "4.*",
-        "illuminate/support": "7.*"
+        "laravel/socialite": "5.*",
+        "illuminate/support": "8.*"
     },
     "autoload" : {
         "psr-4": {
