@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {      
-        "laravel/socialite": "5.*",
+        "laravel/socialite": "5.*"
     },
     "autoload" : {
         "psr-4": {
