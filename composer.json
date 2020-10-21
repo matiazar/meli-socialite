@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {      
         "laravel/socialite": "5.*",
-        "illuminate/support": "8.*"
+        "illuminate/support": "8.10.*"
     },
     "autoload" : {
         "psr-4": {
